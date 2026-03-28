@@ -1,8 +1,14 @@
+<!-- 🔥 Top Banner -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Lakshmi</h1>
 <h3 align="center">Frontend Designer & Engineer from India 🇮🇳</h3>
 
+<!-- 💜 Typing Animation (Purple) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Designer+%26+Engineer;MERN+Stack+Developer;UI%2FUX+Lover;Building+Clean+%26+Scalable+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Frontend+Designer+%26+Engineer;MERN+Stack+Developer;UI%2FUX+;Building+Clean+%26+Scalable+Web+pages" />
 </p>
 
 <p align="center">
@@ -21,7 +27,7 @@
 
 ### 🛠️ Tech Stack  
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,git" />
 </p>
 
@@ -29,9 +35,9 @@
 
 ### 📊 GitHub Stats  
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lakshmi-codespace&show_icons=true&theme=tokyonight" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmi-codespace&theme=tokyonight" />
@@ -41,7 +47,7 @@
 
 ### 🌐 Connect with Me  
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/lakshmi-madhu-sudhan-4bbb41281">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
